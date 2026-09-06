@@ -17,3 +17,4 @@ To preview locally, open `dist/index.html` in a browser.
 - Styling: `dist/assets/styles.css`
 - Interactions: `dist/assets/app.js`
 - Résumé download: `dist/assets/David_Godinez_Resume.pdf`
+.
